@@ -46,3 +46,4 @@ while True:
 
     else:
         print("Неверная команда. Попробуйте снова.")
+https://github.com/erbol006/homvork/tree/main/0708208205
